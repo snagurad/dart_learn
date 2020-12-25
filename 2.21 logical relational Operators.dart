@@ -13,7 +13,7 @@ void main() {
   print(!(5 < 2));
 
   //Logical
-  // || && != exp1?exp2:exp3
+  // || && !=
   print(5 == 2 || 5 < 6);
   print(5 == 2 && 5 < 6);
   String mail = 'sn@gmail.com';
