@@ -1,5 +1,5 @@
 //Functions - Advanced
-//Methods or Opertions collection-forEach, map, where, reduce
+//Methods or Opertions collection-forEach
 void main() {
   const list = [1, 2, 3];
   for (var value in list) {
